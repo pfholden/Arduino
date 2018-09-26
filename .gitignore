@@ -1,0 +1,10 @@
+
+build/
+
+dist/
+
+lib/
+
+nbproject/
+
+*.inc
